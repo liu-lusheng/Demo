@@ -1,0 +1,9 @@
+
+Fsquid:S1604"(Make this anonymous inner class a lambda(‡¢ƒƒ8•®Ûñæ-
+Zsquid:S1610+"<Convert the abstract class "IntegerMaths" into an interface.(åÓÝ‡8ÆÛÛñæ-
+U
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Îá“8æëßðæ-
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž8•®Ûñæ-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ö¹Ì´8¼ýñæ-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Ú¨ƒâ8ËÁÝñæ-

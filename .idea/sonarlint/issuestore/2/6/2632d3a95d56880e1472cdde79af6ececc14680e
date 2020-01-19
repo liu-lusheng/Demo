@@ -1,0 +1,12 @@
+
+lsquid:S22725"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(þÿøë8èî©¿æ-
+qsquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(•¤ûÕ8èî©¿æ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(çž‰
+8èî©¿æ-
+Tsquid:S1197C"8Move the array designator from the variable to the type.(˜ƒ|8èî©¿æ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8èî©¿æ-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ºÍÎÇ8ŠÈ¥åæ-

@@ -1,0 +1,33 @@
+
+`squid:CallToDeprecatedMethod$",Remove this use of "Byte"; it is deprecated.(œ„®·ûÿÿÿÿ8¶¶ù‰è-
+lsquid:S1192"IDefine a constant instead of duplicating this literal "passable" 4 times.(°’‹ñøÿÿÿÿ8¶¶ù‰è-
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÅóÅ%8¶¶ù‰è-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°’‹ñøÿÿÿÿ8š‘†êç-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(çÔéÌüÿÿÿÿ8ÁÆÖ‹è-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°’‹ñøÿÿÿÿ8š‘†êç-
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¬‚âÎýÿÿÿÿ8´ï¨‹è-
+isquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ýÇÔÿ8›äùŠè-
+Dsquid:S1481E"&Remove this unused "b" local variable.(ú‰ºí8ÊÅË‹è-
+Asquid:S2129$"Remove this "Byte" constructor(œ„®·ûÿÿÿÿ8¶¶ù‰è-
+hsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8š‘†êç-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ý¿¨Èþÿÿÿÿ8š‘†êç-
+nsquid:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(´Ü«Ùÿÿÿÿÿ8¶¶ù‰è-
+lsquid:UselessImportCheck"<Remove this unused import 'java.nio.charset.CharsetEncoder'.(‘›šýøÿÿÿÿ8¶¶ù‰è-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(°’‹ñøÿÿÿÿ8¶¶ù‰è-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(°’‹ñøÿÿÿÿ8¶¶ù‰è-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ÚŒ®óúÿÿÿÿ8å¨Œè-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8üÖ˜‹è-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(«åìúÿÿÿÿÿ8««Ì‹è-
+Ssquid:S1854E"5Remove this useless assignment to local variable "b".(ú‰ºí8ÊÅË‹è-
+^squid:S4719I";Replace Charset.forName() call with StandardCharsets.UTF_16(«åìúÿÿÿÿÿ8éÍ‹è-
+isquid:S1301%"KReplace this "switch" statement by "if" statements to increase readability.(×î²”8¶¶ù‰è-
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(úæÔó8œéÍ‹è-

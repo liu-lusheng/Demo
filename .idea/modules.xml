@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmpdemo/ear/ear.iml" filepath="$PROJECT_DIR$/snmpdemo/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmpdemo/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/snmpdemo/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basic/java_basic.iml" filepath="$PROJECT_DIR$/java_basic/java_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk8_new_feature/jdk8_new_feature.iml" filepath="$PROJECT_DIR$/jdk8_new_feature/jdk8_new_feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmpdemo/projects/logging/logging.iml" filepath="$PROJECT_DIR$/snmpdemo/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmpdemo/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/snmpdemo/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmpdemo/snmpdemo.iml" filepath="$PROJECT_DIR$/snmpdemo/snmpdemo.iml" />
+    </modules>
+  </component>
+</project>

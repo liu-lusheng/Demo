@@ -1,0 +1,24 @@
+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‚†Í•øÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ô™Âãûÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(°èÑ»úÿÿÿÿ
+Asquid:S1172
+"*Remove this unused method parameter "obj".(ÀÀ­È
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(õ½¦ûûÿÿÿÿ
+Asquid:S1172"*Remove this unused method parameter "obj".(‹¾ÿ×
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(è„¿øÿÿÿÿ
+N
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Î›çb
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ªé¤
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(œ¢ è
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(´ıïè
+Fsquid:S1172"*Remove this unused method parameter "obj".(‚†Í•øÿÿÿÿ
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Ş†ƒ£øÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Rsquid:S1611"/Remove the parentheses around the "y" parameter(´™¿ùÿÿÿÿ8·¬€òæ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğ‘÷À8©ô–òæ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(í’‹8·¬€òæ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áŞĞ8·¬€òæ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(·˜Ü¿8·¬€òæ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì¦œÕşÿÿÿÿ8·¬€òæ-
+tsquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(´™¿ùÿÿÿÿ8›Ç€òæ-
+‡"squid:ClassVariableVisibilityCheck"MMake x a static final constant or non-public and provide accessors if needed.(¤äÍ‚şÿÿÿÿ8·¬€òæ-
+‡"squid:ClassVariableVisibilityCheck"MMake x a static final constant or non-public and provide accessors if needed.(øŞè•ùÿÿÿÿ8·¬€òæ-

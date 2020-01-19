@@ -1,0 +1,5 @@
+
+qsquid:MaximumInheritanceDepth'"<This class has 7 parents which is greater than 5 authorized.(ßÀªþÿÿÿÿ8Ó…€èæ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¶‡ÜØ8Ó…€èæ-
+Ksquid:S1604A"(Make this anonymous inner class a lambda(¢¹“úÿÿÿÿ8Ó…€èæ-
+`squid:UselessImportCheck"5Remove this unused import 'javafx.scene.layout.HBox'.(äê…ž8Ó…€èæ-

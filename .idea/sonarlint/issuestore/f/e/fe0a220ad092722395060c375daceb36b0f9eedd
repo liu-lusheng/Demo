@@ -1,0 +1,14 @@
+
+rsquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞØüıÿÿÿÿ8°Ó¿æ-
+Ysquid:S1854B"6Remove this useless assignment to local variable "ls".(µà‹øÿÿÿÿ8ÂªšÂæ-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(Â€öÙşÿÿÿÿ8°Ó¿æ-
+msquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶æçê8°Ó¿æ-
+hsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(Æ¦k8ÁÅæ¿æ-
+|squid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷»¥Éşÿÿÿÿ8°Ó¿æ-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Â€öÙşÿÿÿÿ8°Ó¿æ-
+Jsquid:S1481B"'Remove this unused "ls" local variable.(µà‹øÿÿÿÿ8ÂªšÂæ-
+msquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¼È´8°Ó¿æ-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(Â€öÙşÿÿÿÿ8°Ó¿æ-
